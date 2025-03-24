@@ -16,7 +16,7 @@ const Home = () => {
             I’m a Full-Stack Developer with a strong foundation in front-end and back-end technologies. I love solving problems and bringing innovative solutions to life.
           </div>
           <div className='col-6 d-flex justify-content-center align-items-center'>
-            <img src={ProfileImage} alt="Profile" width={200} height={300} className='rounded-circle' />
+            <img src={ProfileImage} alt="Profile" width={150} height={230} className='rounded-circle' />
           </div>
         </div>
       </div>
