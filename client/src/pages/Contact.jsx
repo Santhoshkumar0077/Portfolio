@@ -24,9 +24,10 @@ const Contact = () => {
                 <a className='text-decoration-none' href="https://github.com/Santhoshkumar0077">GitHub</a>
             </div>
             <div className='row p-3 bg-secondary'>
-                <form className='bg-light p-4 rounded shadow-lg col-sm-12 col-lg-6 mx-auto'
-                    action="https://formsubmit.co/santhoshkumarmanoharan07@gmail.com"
-                    method="POST">
+                <form className='bg-light p-4 rounded shadow-lg col-sm-12 col-lg-6 mx-auto' onSubmit={e => {
+                    e.preventDefault()
+                    alert("sumitted successfully")
+                }}>
 
                     <h3>Contact Form</h3>
 
