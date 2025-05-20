@@ -36,6 +36,20 @@ const Projects = () => {
                 <a href="https://e-commerce-eight-omega-98.vercel.app/" className='text-decoration-none fs-6'>Live Demo</a>
                 <a href="https://github.com/Santhoshkumar0077/E-commerce" className='text-decoration-none fs-6'>Git repository</a>
             </div>
+            <div className='shadow-lg p-3 d-flex flex-column gap-3 bg-body-tertiary rounded border border-2'>
+                <h3>Notes app</h3>
+                <h4>Features:</h4>
+                <div>Notes list: Notes will be displayed that created by user</div>
+                <div>CURD operation: User can create, read and update and delete notes.</div>
+                <div>Authentication: User details are authenticated. only user can see their page with credentials. </div>
+                <h4>Tech Stack Used:</h4>
+                <div>Frontend: React.js, Bootstarp</div>
+                <div>Backend: Node.js, Express.js, MongoDB</div>
+                <div>Authentication: JWT (JSON Web Tokens)</div>
+                <h4>Links:</h4>
+                <a href="https://notes-hj5o.onrender.com" className='text-decoration-none fs-6'>Live Demo</a>
+                <a href="https://github.com/Santhoshkumar0077/notes" className='text-decoration-none fs-6'>Git repository</a>
+            </div>
         </div>
         <div className='bg-dark p-4 text-center text-white row'>
             <a href="mailto:santhoshkuarmanoharan07@gmail.com" className='text-decoration-none text-white p-4'>📩 Email: santhoshkuarmanoharan07@gmail.com</a>
