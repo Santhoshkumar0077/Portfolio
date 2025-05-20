@@ -19,7 +19,7 @@ const Projects = () => {
                 <div>Backend: Node.js, Express.js, MongoDB, Socket.IO</div>
                 <div>Authentication: JWT (JSON Web Tokens)</div>
                 <h4>Links:</h4>
-                <a href="https://chat-app-puce-zeta.vercel.app/" className='text-decoration-none fs-6'>Live Demo</a>
+                <a href="https://message-eight-chi.vercel.app" className='text-decoration-none fs-6'>Live Demo</a>
                 <a href="https://github.com/Santhoshkumar0077/chatApp" className='text-decoration-none fs-6'>Git repository</a>
             </div>
             <div className='shadow-lg p-3 d-flex flex-column gap-3 bg-body-tertiary rounded border border-2'>
