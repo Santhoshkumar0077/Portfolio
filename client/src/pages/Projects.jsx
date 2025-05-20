@@ -19,8 +19,8 @@ const Projects = () => {
                 <div>Backend: Node.js, Express.js, MongoDB, Socket.IO</div>
                 <div>Authentication: JWT (JSON Web Tokens)</div>
                 <h4>Links:</h4>
-                <a href="https://message-eight-chi.vercel.app" className='text-decoration-none fs-6'>Live Demo</a>
-                <a href="https://github.com/Santhoshkumar0077/chatApp" className='text-decoration-none fs-6'>Git repository</a>
+                <a href="https://message-eight-chi.vercel.app" target='_blank' className='text-decoration-none fs-6'>Live Demo</a>
+                <a href="https://github.com/Santhoshkumar0077/chatApp" target='_blank' className='text-decoration-none fs-6'>Git repository</a>
             </div>
             <div className='shadow-lg p-3 d-flex flex-column gap-3 bg-body-tertiary rounded border border-2'>
                 <h3>E-commerce Web site</h3>
@@ -33,8 +33,8 @@ const Projects = () => {
                 <div>Backend: Node.js, Express.js, MongoDB</div>
                 <div>Authentication: JWT (JSON Web Tokens)</div>
                 <h4>Links:</h4>
-                <a href="https://e-commerce-eight-omega-98.vercel.app/" className='text-decoration-none fs-6'>Live Demo</a>
-                <a href="https://github.com/Santhoshkumar0077/E-commerce" className='text-decoration-none fs-6'>Git repository</a>
+                <a href="https://e-commerce-eight-omega-98.vercel.app/" target='_blank' className='text-decoration-none fs-6'>Live Demo</a>
+                <a href="https://github.com/Santhoshkumar0077/E-commerce" target='_blank' className='text-decoration-none fs-6'>Git repository</a>
             </div>
             <div className='shadow-lg p-3 d-flex flex-column gap-3 bg-body-tertiary rounded border border-2'>
                 <h3>Notes app</h3>
@@ -43,12 +43,12 @@ const Projects = () => {
                 <div>CURD operation: User can create, read and update and delete notes.</div>
                 <div>Authentication: User details are authenticated. only user can see their page with credentials. </div>
                 <h4>Tech Stack Used:</h4>
-                <div>Frontend: React.js, Bootstarp</div>
-                <div>Backend: Node.js, Express.js, MongoDB</div>
+                <div>Frontend: React.js, Bootstarp, Redux Toolkit, RTK Query.</div>
+                <div>Backend: Node.js, Express.js, MongoDB.</div>
                 <div>Authentication: JWT (JSON Web Tokens)</div>
                 <h4>Links:</h4>
-                <a href="https://notes-hj5o.onrender.com" className='text-decoration-none fs-6'>Live Demo</a>
-                <a href="https://github.com/Santhoshkumar0077/notes" className='text-decoration-none fs-6'>Git repository</a>
+                <a href="https://notes-hj5o.onrender.com" target='_blank' className='text-decoration-none fs-6'>Live Demo</a>
+                <a href="https://github.com/Santhoshkumar0077/notes" target='_blank'  className='text-decoration-none fs-6'>Git repository</a>
             </div>
         </div>
         <div className='bg-dark p-4 text-center text-white row'>
